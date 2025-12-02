@@ -1,4 +1,5 @@
 <h1 align="center">Olá 👋Tudo bem?</h1>
+<p> Sou Victo Reis, estudante brasileiro de Ciência da Computação, dev back-end em formação e entusiasta de Redes neurais e matemática aplicada. Curto Java, Node.js e brincar com bancos como Postgres e MySQL. Sempre aprendendo algo novo e buscando evoluir no código.</p>
 
 ###
 
